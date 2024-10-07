@@ -20,8 +20,8 @@ This repository contains a simple CRUD (Create, Read, Update, Delete) applicatio
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/mongodb-developer/deno-mongodb-crud.git
-   cd deno-mongodb-crud
+   git clone https://github.com/mongodb-developer/getting-started-deno-mongodb.git
+   cd getting-started-deno-mongodb
    ```
 
 2. Create a `.env` file in the root directory with your MongoDB connection string:
