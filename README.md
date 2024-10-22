@@ -5,7 +5,7 @@ This repository contains a simple CRUD (Create, Read, Update, Delete) applicatio
 ## Resources
 
 - [Written Tutorial](https://www.mongodb.com/developer/languages/javascript/getting-started-deno-mongodb/)
-- [Video Tutorial](https://www.youtube.com/watch?v=xOgicDUXnrE)
+- [Video Tutorial](https://www.youtube.com/watch?v=p541Je4J_ws)
 
 ## Prerequisites
 
